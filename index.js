@@ -1,3 +1,2 @@
-exports.printMsg = function() {
-  console.log("This is a message from the demo package");
-}
+const {btcAddress} = require("./src/address.js");
+console.log(btcAddress);
