@@ -1,6 +1,6 @@
 {
   "name": "gaadroo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NFP-minting protocol",
   "main": "index.js",
   "type": "module",
