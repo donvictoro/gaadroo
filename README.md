@@ -4,7 +4,7 @@ NFPs & NFTs minting protocol on top of Bitcoin, Litecoin & Dogecoin blockchains.
 # Quick description
 This is Second layer (L2) protocol that uses common L1 blockchains and their programming abilities to create Non-fungible tokens or real world pieces.
 
-#Blockchains connection
+# Blockchains connection
 Chain (.) so is used
 
 # Structure
