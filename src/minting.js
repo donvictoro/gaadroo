@@ -1,4 +1,3 @@
-import bitcoin from 'bitcoinjs-lib';
 import fetch from 'node-fetch';
 import {txHexOPRETURNBTC, txHexOPRETURNLTC, txHexOPRETURNDOGE} from "./transactions.js";
 import {txHex1To2OPRETURNBTC, txHex1To2OPRETURNLTC, txHex1To2OPRETURNDOGE} from "./transactions.js";

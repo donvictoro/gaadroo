@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/donvictoro/gaadroo.git"
   },
+  "files": [
+    "src"
+  ],
   "keywords": [
     "NFT",
     "NFP",

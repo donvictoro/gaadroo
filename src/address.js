@@ -11,7 +11,7 @@ function generateBTCAddress() {
   }
   return "error";
 }
-export const btcAddress = generateBTCAddress();
+export const btcAddress = generateBTCAddress;
 function generateLTCAddress() {
   const LITECOIN = {
     messagePrefix: '\x19Litecoin Signed Message:\n',
@@ -35,7 +35,7 @@ function generateLTCAddress() {
   }
   return "error";
 }
-export const ltcAddress = generateLTCAddress();
+export const ltcAddress = generateLTCAddress;
 function generateDOGEAddress() {
   const DOGECOIN = {
     messagePrefix: '\x19Dogecoin Signed Message:\n',
@@ -59,4 +59,4 @@ function generateDOGEAddress() {
   }
   return "error";
 }
-export const dogeAddress = generateDOGEAddress();
+export const dogeAddress = generateDOGEAddress;
